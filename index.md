@@ -19,7 +19,7 @@ eleventyNavigation:
 <main>
 
 <h1>Help us Irish keep our good names!</h1>
-<p>If you've ever been told you have "invalid characters" in your Irish or other ethnic name this site is for you! Software and forms should be built to accomodate real human names rather than the other way around. Share your story, learn what you can do, and shop our site to help support the cause.</p>
+<p>If you've ever been told you have "invalid characters" in your name (Irish or not) this site is for you! Software and forms should be built to accomodate real human names rather than the other way around. Share your story, learn what you can do, and shop our site to help support the cause.</p>
 
 #### My name is Thomas O’Leary
 
