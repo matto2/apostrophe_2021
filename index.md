@@ -53,7 +53,7 @@ ___
 #### Editorial Note
 Although the original motivation to create this site was the struggles of having an apostrophe in one's Irish name, we know that many other names have the same type of issues. We aim to be an inclusive cause, and hopefully help _everyone_ with accents, dashes, or amount of letters in your name, for example, that is considered somehow "non-standard".
 
-We stand for racial equality and justice and condemn discrimination in any and all forms.
+We stand for racial equality and justice, and condemn discrimination in any and all forms.
 
 ---
 
