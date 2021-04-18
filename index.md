@@ -47,8 +47,13 @@ Scripturient writer Ian Chadwick muses on the possible dropping of apostrophes: 
 
 A major bank that I attend regularly cannot accommodate my name being spelled correctly in its master files or on my credit card. The best the bank can do is print my last name correctly for my checkbook checks. A leading airline has me correctly in older files, but once it merged with a smaller line the apostrophe got dropped. The only way I can make a reservation is to telephone and asked not to be slapped with a special fee to book over the phone since the system has me in two conflicting versions that won’t accept me on line. Also, there is the worry that you’ll have problems with tight security at airport checkin, where a name on your ticket has to exactly match your ID documents.
 
-I have a hunch that if robot computers had their way, we Irish and everybody else would be identified with numbers, like prisoners, or even worse with a quick scanning of our bar codes.
+I have a hunch that if robot computers had their way, we Irish and everybody else would be identified with numbers, or even worse with a quick scanning of our bar codes.
 ___
+
+#### Editorial Note
+Although the original motivation to create this site was the struggles of having an apostrophe in one's Irish name, we know that many other names have the same type of issues. We aim to be an inclusive cause, and hopefully help _everyone_ with accents, dashes, or amount of letters in your name, for example, that is considered somehow "non-standard".
+
+---
 
 #### An expert opinion
 
