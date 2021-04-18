@@ -53,6 +53,8 @@ ___
 #### Editorial Note
 Although the original motivation to create this site was the struggles of having an apostrophe in one's Irish name, we know that many other names have the same type of issues. We aim to be an inclusive cause, and hopefully help _everyone_ with accents, dashes, or amount of letters in your name, for example, that is considered somehow "non-standard".
 
+We stand for racial equality and justice and condemn discrimination in any and all forms.
+
 ---
 
 #### An expert opinion
@@ -66,5 +68,9 @@ Yes, it's possible. Information Technology specialists can develop code level ch
 **_Why doesn't every company just do that?_**
 
 There are potential security implications. Computer Programmers and Information Security advisors aim to decrease the attack surface and strengthen the attack vectors in the systems that they develop. This is important for keeping systems safe from attackers. It’s common practice to decrease the opportunity for an end user to enter special characters such as (? | | " | % | \ | / | : | ‘ * | Due to their usage in popular programming languages like C, C++, PHP, C#, SQL, and Java many of these characters can trigger code execution in Information Systems if not handled correctly in the code. Although the intention of Computer Programmers and Information Security advisors is beneficial for end user safety, it is unfair to ask individuals to skip the apostrophe in their names due to this reason. With a little bit more work on code level checks this character can be allowed for use. Apostrophes in names have cultural value and help to make them unique in an artistic way. This character should be accommodated for names in software systems.
+
+---
+
+**Questions/Comments? [Email us](mailto:keeptheapostrophe@gmail.com)**
 
 </main>
