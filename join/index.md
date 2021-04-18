@@ -29,8 +29,9 @@ _Sincerely,_
 
 ### 2. Share Your Story
 Pop over to our <a href="https://www.facebook.com/keeptheapostrophe">facebook page</a> and tell us about when the  apostrophe in your name (or other reasons) caused a computer to not accept your actual name.
-
-(Side note: I plan to move comments to this site as well soon)
+_(Side note: I plan to move comments to this site as well soon)_
 
 ### 3. Shop!
 Proudly wear our [t-shirts](/shop/) that calls for keeping the Irish apostrophe around. Think of it as the “keep” in Keep the Faith.” That covers many meanings: maintain, preserve, sustain, observe, support, respect, guard, and cherish. It will benefit all of us.
+
+**Questions/Comments? Send us an [email](mailto:keeptheapostrophe@gmail.com)**
