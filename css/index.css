@@ -325,3 +325,12 @@ a.direct-link {
 footer {
 font-size: 14px;
 }
+
+header {
+  border-bottom: 1px dashed var(--lightgray);
+  max-width: 46rem;
+}
+
+header h1 a {
+  color: #00AA55 !important;
+}
